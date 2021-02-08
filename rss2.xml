@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>A quiet place</title>
+    <link>https://www.onemoretimeonemorechance.com/</link>
+    
+    <atom:link href="https://www.onemoretimeonemorechance.com/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>A quiet place</description>
+    <pubDate>Mon, 08 Feb 2021 06:12:20 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>嘻嘻</title>
+      <link>https://www.onemoretimeonemorechance.com/2021/02/08/%E5%98%BB%E5%98%BB/</link>
+      <guid>https://www.onemoretimeonemorechance.com/2021/02/08/%E5%98%BB%E5%98%BB/</guid>
+      <pubDate>Mon, 08 Feb 2021 06:10:25 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;&lt;img src=&quot;https://i.loli.net/2021/02/08/qt3PKa94nEbBw5C.jpg&quot; alt=&quot;miko _233_.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;唉，好累啊！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://img.imgdb.cn/it</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p><img src="https://i.loli.net/2021/02/08/qt3PKa94nEbBw5C.jpg" alt="miko _233_.jpg"></p><p>唉，好累啊！</p><p><img src="https://img.imgdb.cn/item/6020c9253ffa7d37b37beeaf.png"></p>]]></content:encoded>
+      
+      
+      
+      
+      <comments>https://www.onemoretimeonemorechance.com/2021/02/08/%E5%98%BB%E5%98%BB/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
